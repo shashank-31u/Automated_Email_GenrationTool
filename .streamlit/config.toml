@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF4B4B"  # Keep this as the primary action color.
+backgroundColor = "#0A0A23"  # Dark blue background for a professional look.
+secondaryBackgroundColor = "#000000"  # Black secondary background.
+textColor = "#E1E1E6"  # Light gray text color for readability.
+font = "sans serif"
